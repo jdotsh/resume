@@ -72,7 +72,7 @@ To check out the tutorial and docs, check out [the guide]().
 
 ## Examples
 
-- [Demo:](https://www.sherollari.it/)
+- [Demo:](https://jdotsh-resume.netlify.app)
 
 For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
 
